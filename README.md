@@ -1,6 +1,6 @@
 # A call screener
 
-Built on tropo, node.js, and mongoose.js
+Built on tropo, node.js, express.js, and mongoose.js
 
 Sends recruiters a text message with my email address instead of allowing them to leave a voicemail.
 
