@@ -1,0 +1,14 @@
+{
+  "name": "call_screen",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "",
+    "mongodb": "",
+    "mongoose": "",
+    "tropo-webapi": "" 
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
